@@ -8,7 +8,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Biswajit-12&label=Profile%20views&color=0e75b6&style=flat" alt="Biswajit-12" /> </p>
 
 ```JAVA
-public class Smruti {
+public class Biswajit {
   public static void main(String args...) {
     System.out.println("Welcome to my world");
   }  
