@@ -10,15 +10,16 @@
 ```JAVA
 public class Biswajit {
   public static void main(String args...) {
-    System.out.println("Welcome to my world");
+    System.out.println("Welcome to my Coding Encylopedia");
   }  
 }
 ```
 <h2>About me</h2>
 
-I'm Biswajit, a passionate self-taught full stack developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Biswajit, a passionate self-taught full-stack developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the architecture, and code quality and that allowing me to build complete and scalable applications.
 
-
+Thanks and Regards 
+       😊
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/biswajit-mohapatra-0a8368269/">
